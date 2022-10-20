@@ -13,3 +13,7 @@
   background-size: cover;
   background-position: center;
 }
+
+.boxShadow{
+  box-shadow: 5px 5px 5px red,  -5px -5px 5px yellow;
+}
